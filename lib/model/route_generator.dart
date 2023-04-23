@@ -45,7 +45,7 @@ class RouteGenerator {
               ),
             ),
             appBar: AppBar(
-              title: const Text('404 Error'),
+              title: const Text('404 '),
             ),
           ),
         );
