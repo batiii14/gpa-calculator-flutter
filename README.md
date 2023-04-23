@@ -9,6 +9,7 @@ If you have any questions, suggestions or feedback, please contact me via email:
 
 
 ## Screenshots
+<img src="https://user-images.githubusercontent.com/82970523/233812609-680ecd6b-6f15-482a-9253-f85ee429703d.gif" width="250" height="250"/>
 ![BICGPA2](https://user-images.githubusercontent.com/82970523/233812609-680ecd6b-6f15-482a-9253-f85ee429703d.gif)
 ![Android Emulator - Nexus_5X_API_30_5554 23 04 2023 03_10_57](https://user-images.githubusercontent.com/82970523/233812647-5448cd0e-8e7b-4e8e-9ceb-4d5cd977c30f.png)
 ![Android Emulator - Nexus_5X_API_30_5554 23 04 2023 03_11_17](https://user-images.githubusercontent.com/82970523/233812650-d57961eb-9156-4f03-b1bc-252ee5273067.png)
