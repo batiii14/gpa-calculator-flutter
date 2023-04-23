@@ -1,4 +1,4 @@
-# CGPA Calculator
+# GPA Calculator
 This is a mobile app created with Flutter that allows the user to calculate their CGPA (Cumulative Grade Point Average) by entering their grades and credits.
 ## Usage
 Upon launching the app, you will be taken to a welcome screen where you can select the number of courses you are currently taking. Once you have made your selection, you will be directed to a screen where you can enter your grade and course credit for each course. After entering the required information, simply click on the "Calculate" button and your CGPA information will be displayed.
